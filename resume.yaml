@@ -1,0 +1,93 @@
+cv:
+  name: D'Alcamo Kael
+  location: Mestre (VE), Italy
+  email: jobs@kael-k.io
+  social_networks:
+    - network: GitHub
+      username: kael-k
+  sections:
+    experience:
+      - company: Freelancer
+        position: Software and DevOps Engineer
+        location: Full remote
+        start_date: 2021-07
+        end_date: present
+        highlights:
+          - Working mainly in python on cloud-related projects
+          - Experience with junior tutoring in programming and work methodology best practices
+          - Recently worked as a mentor in a 6 weeks POC as a contractor in collaboration with a famous international IT consulting company
+          - Now working on a software delivery automation, based on the GitOps approach
+      - company: EidosMedia S.p.A.
+        position: EidosMedia S.p.A.
+        location: Full remote
+        start_date: 2020-11
+        end_date: 2021-07
+        highlights:
+          - Full-time employment as an Operational Support engineer, working mainly on linux systems
+      - company: CLEMPS S.r.l.
+        position: Web Developer
+        location: Full remote
+        start_date: 2017-09
+        end_date: 2020-10
+        highlights:
+          - Started as a junior web developer
+          - Learnt and applied DevOps practices
+          - Managed a production kubernetes cluster and wrote CI pipelines (Gitlab CI)
+          - Worked with a lot of different web tecnologies such as Joomla!, Wordpress and more modern frameworks (Flask and Connexion as backend frameworks, Vue.js 2 as frontend framework in particular)
+    education:
+      - institution: Certified Kubernetes Application Developer
+        area: Kubernetes
+        date: 2022-06
+        highlights:
+          - "Certification ID: LF-hbi33hq0m4"
+      - institution: Certified Kubernetes Administrator
+        area: Kubernetes
+        date: 2022-06
+        highlights:
+          - "Certification ID: LF-qrhynatv5h"
+      - institution: IELTS
+        area: English language
+        date: 2019-06
+        highlights:
+          - "Certificated with score 6.0 (equivalent to B2)"
+      - institution: University of Modena and Reggio Emilia
+        area: Computer Engineering
+        start_date: 2015-09
+        end_date: 2018-10
+        highlights:
+          - "Bachelor’s degree in Computer Engineering"
+    technologies:
+      - label: Languages
+        details: Mainly Python, also worked a lot with JavaScript/TypeScript but not recently. Some basic knowledge of Go, C and Java
+      - label: Kubernetes
+        details: ArgoCD, Argo Rollout, cert-manager, nginx-ingress, MetalLB, Openshift
+      - label: Pipelines
+        details: Gitlab CI, Github Actions, Tekton (and Tekton Triggers), Jenkins, Ansible
+    languages:
+      - label: Italian
+        details: native speaker
+      - label: English
+        details: fluent reading and writing and good listening and speaking
+      - label: Dutch
+        details: basic comprehension of the language
+    about_me: 
+      - |
+          I have always been passionate about IT: I started doing development at 14 years old; after completing high school, I
+          enrolled in 2015 at the Computer Engineering course at the University of Modena and Reggio Emilia.
+
+      - |
+          In my second year, I moved to Modena, continuing my studies and supporting myself by working at a McDonald’s, 
+          helping me build resilience and adaptability skills. Between the end of my second year and the beginning of my third year I got my first job in IT as a full-remote web developer.
+      - | 
+          After graduating in 2018, I moved to Milan to continue my studies at Politecnico di Milano. During those years I had
+          the opportunity to gain a lot of work experience and to self-study, as well as meeting other enthusiasts and professionals in the sector.  
+          Thanks to the Politecnico Linux User Group POuL, I had the chance to meet very skilled people in various areas of IT, whom I had the chance to learn a lot from.
+      - |
+          Around 2021 I decided to suspend my Master’s Degree in Computer Engineering to continue with my professional
+          career and in July 2021 I started working as a freelancer.
+      - |
+          In my free time I like to read. I also love travelling and hiking in the mountains.
+
+design:
+  theme: sb2nov
+  font: Latin Modern Serif
